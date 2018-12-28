@@ -10,7 +10,7 @@ Machine code is a computer program written in machine language instructions that
 
 ![](http://i.imgur.com/9AWZHe2.jpg)
 
-Để tạo ra mã máy trên một mạch đơn giản để nghiên cứu thì không có gì khó. Bạn có thể chọn mạch FPGA ở [cửa hàng](https://www.amazon.com/slp/fpga-boards/ef66a6u55eou46p) hay phòng thí nghiệm thực hành của nhà trường
+Để tạo ra mã máy đơn giản trên một mạch để nghiên cứu thì không có gì khó. Bạn có thể chọn mạch FPGA ở [cửa hàng](https://www.amazon.com/slp/fpga-boards/ef66a6u55eou46p) hay phòng thí nghiệm thực hành của nhà trường. Sử dụng các ngôn ngữ VHDL (VHSIC hardware description language) để viết CPU cho mạch FPGA. Bạn tham khảo [phần 1](http://labs.domipheus.com/blog/designing-a-cpu-in-vhdl-part-1-rationale-tools-method/), [phần 2](http://labs.domipheus.com/blog/designing-a-cpu-in-vhdl-part-2-xilinx-ise-suite-register-file-testing/)
 
 ## Assembly language
 ## Cross Assembler
