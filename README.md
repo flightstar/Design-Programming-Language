@@ -15,5 +15,5 @@ Machine code is a computer program written in machine language instructions that
 ## Assembly language
 ## Cross Assembler
 ## High-level programming language
-## Build VGA Driver in the FPGA PC 
+## Build VGA Driver to display image motion in the FPGA PC 
 ## Artificial Intelligence in the Compiler
