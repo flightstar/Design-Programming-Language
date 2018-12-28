@@ -10,8 +10,10 @@ Machine code is a computer program written in machine language instructions that
 
 ![](http://i.imgur.com/9AWZHe2.jpg)
 
-Để tạo ra mã máy trên một mạch đơn giản để nghiên cứu thì không có gì khó
+Để tạo ra mã máy trên một mạch đơn giản để nghiên cứu thì không có gì khó. Bạn có thể chọn mạch FPGA ở [cửa hàng](https://www.amazon.com/slp/fpga-boards/ef66a6u55eou46p) hay phòng thí nghiệm thực hành của nhà trường
+
 ## Assembly language
 ## Cross Assembler
 ## High-level programming language
+## Build VGA Driver in the FPGA PC 
 ## Artificial Intelligence in the Compiler
